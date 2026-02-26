@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Frank-Developer2011.github.io/progressor/sitemap.xml.com
